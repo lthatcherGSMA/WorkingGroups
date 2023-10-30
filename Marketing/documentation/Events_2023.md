@@ -30,6 +30,7 @@
 | [https://futurenetworld.net/events/futurenet-asia-2023/] | 18-19 October 2023 | Singapore | GSMA |
 | Network X | 24-26 October 2023 | Paris | DT |
 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/  | 06.-09. November 2023 | Chicago ||
+| [Mobi ID](https://mobi-id.com.br/) |06 November 2023 | Brazil | 
 | LFN developers conference | November | Budapest ||
 | https://globecom2023.ieee-globecom.org | 04.-08. December 2023 | Kuala Lumpur | TEF |
 | https://www.apidays.global/paris/ | 06.-08. December 2023 | Paris | DT |
